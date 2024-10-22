@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=beawebers&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +24,7 @@
 <div> 
   <a href="https://www.instagram.com/beawebers/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:btrizws@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/beatriz-weber-6723bb2b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/beatriz-weber-6723bb2b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img align= "right" alt="gif" src="https://tenor.com/pt-BR/view/hearts-gif-24943030">
   
 </div>
