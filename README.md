@@ -1,7 +1,7 @@
-## Oie! Eu sou a Beatriz Weber, estudante de medicina veterinária e desenvolvedora front-end! 
+## Oie! Eu sou a Beatriz Weber, estudante de medicina veterinária e desenvolvedora front-end 💗
 
 - 👩🏻‍💻 Atualmente me aperfeiçoando em desenvolvimento front-end
-- 💭 No momento estou aprendendo python e ciência de dados
+- 💭 No momento estou aprendendo Python e ciência de dados
 - 🎨 Trabalhando com Design para redes sociais, Web design e Social Media.
 - 👩🏻‍🎓 Estudante de Medicina Veterinária com o sonho de combinar a medicina com tecnologia
 
